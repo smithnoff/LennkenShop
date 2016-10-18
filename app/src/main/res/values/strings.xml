@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LennkenShop</string>
+    <string name="action_settings">Locaciones</string>
+    <string name="title_activity_locaciones">Mapa</string>
+</resources>
