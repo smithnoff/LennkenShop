@@ -9,6 +9,7 @@ public class producto {
     String nombre;
     double precio;
 
+
     public producto(int imagen, String nombre, double precio) {
         this.imagen = imagen;
         this.nombre = nombre;
